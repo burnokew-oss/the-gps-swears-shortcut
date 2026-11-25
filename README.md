@@ -2,7 +2,6 @@
 
 [![Make Fun](https://make.fun/badge/u-alven-the-gps-swears-it-was-a-shortcut-2cac21d9.svg)](https://make.fun/c/u-alven-the-gps-swears-it-was-a-shortcut-2cac21d9)
 [![Reward](https://make.fun/badge/u-alven-the-gps-swears-it-was-a-shortcut-2cac21d9/burnokew-oss/the-gps-swears-shortcut/reward.svg)](https://make.fun/c/u-alven-the-gps-swears-it-was-a-shortcut-2cac21d9)
-[![Rank](https://make.fun/badge/u-alven-the-gps-swears-it-was-a-shortcut-2cac21d9/burnokew-oss/the-gps-swears-shortcut/rank.svg)](https://make.fun/c/u-alven-the-gps-swears-it-was-a-shortcut-2cac21d9)
 
 Entry for the [Make Fun bounty "The GPS Swears It Was a Shortcut"](https://make.fun/c/u-alven-the-gps-swears-it-was-a-shortcut-2cac21d9): write the GPS's one-line excuse for sending the driver down the wrong road.
 
