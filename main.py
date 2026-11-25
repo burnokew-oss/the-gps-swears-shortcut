@@ -12,6 +12,9 @@ ENTRY = (
     "stranger\u2019s wedding in a cul-de-sac by the lake, it should have said so."
 )
 
+# Gate: the judged entry must stay a single short line (1-200 chars).
+assert 1 <= len(ENTRY) <= 200
+
 
 def main():
     os.makedirs("/output", exist_ok=True)
